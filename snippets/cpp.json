@@ -262,13 +262,14 @@
 			],
 		"description": "Code snippet for #define \" \""
 	},
-	"main": {
-		"prefix": "main",
+	"cppmain": {
+		"prefix": "cppmain",
 		"body": [
+			"include <iostream>",
 			"int main(int argc, const char** argv) {",
 			"    return 0;",
 			"}"
 		],
-		"description": "Code snippet for main function"
+		"description": "Code snippet for cpp main function"
 	}
 }
