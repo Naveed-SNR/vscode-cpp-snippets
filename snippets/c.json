@@ -147,5 +147,15 @@
 			"#define \"$1\" \"$2\" "
 			],
 		"description": "Code snippet for #define \" \""
+	},
+	"cmain": {
+		"prefix": "cmain",
+		"body": [
+			"include <stdio.h>",
+			"int main(int argc, const char** argv) {",
+			"    return 0;",
+			"}"
+		],
+		"description": "Code snippet for cpp main function"
 	}
 }
