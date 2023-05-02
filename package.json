@@ -1,7 +1,7 @@
 {
-    "name": "CppSnippets",
-    "publisher": "hars",
-    "displayName": "C/C++ Snippets",
+    "name": "Spinnet",
+    "publisher": "Naveed SNR",
+    "displayName": "Spinnet",
     "description": "Code snippets for C/C++",
     "version": "0.0.15",
     "engines": {
